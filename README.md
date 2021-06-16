@@ -1,9 +1,3 @@
 # first_github_test
-Just a test.
-
-Change one.
-
-Blah blah blah.
-
-
-change two
+I will practice using the wx library in this
+practice repository
